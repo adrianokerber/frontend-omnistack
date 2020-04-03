@@ -1,4 +1,12 @@
+# OmniStack - Web application
+
+This is the frontend site for OmniStack application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## First steps
+
+Run `yarn` to install Node dependencies
 
 ## Available Scripts
 
