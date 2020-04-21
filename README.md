@@ -1,8 +1,8 @@
-# OmniStack - Web application
+# OmniStack - Web application (Site)
 
 This is the frontend site for OmniStack application.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See more details in the [main repository](https://github.com/adrianokerber/omnistack).
 
 ## First steps
 
